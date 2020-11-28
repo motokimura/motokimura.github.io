@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is **Motoki Kimura**'s home on the web!
+- Interested in Research and Development roles on Computer Vision & Machine Learning
+- Deep expertise in computer vision: object detection, semantic segmentation, human recognition, etc.
+- Earth Observation Enthusiast: won the 4th place in [SpaceNet-6 Challenge (CVPR2020)](https://spacenet.ai/earthvision2020/)
+- Currently working as a Cumputer Vision Research Engineer in Tokyo
