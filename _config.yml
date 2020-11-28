@@ -14,7 +14,7 @@ description              : &description "Computer Vision Research Engineer & Ear
 url                      : https://motokimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "motokimura/motokimura.github.io"
-teaser                   : "bio-photo.jpg"
+teaser                   : #"bio-photo.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Motoki Kimura"
-  avatar           : "profile.png"
+  avatar           : "profile_motokimura.jpg"
   bio              : "Computer Vision Research Engineer & Earth Observation Enthusiast"
   location         : "Japan"
   employer         :
