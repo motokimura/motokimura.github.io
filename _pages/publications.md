@@ -9,4 +9,11 @@ author_profile: true
 <b>Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion</b>  
 Nevrez Imamoglu\*, <b>Motoki Kimura</b>\*, Hiroki Miyamoto, Aito Fujita, Ryosuke Nakamura <u>(*) equally contributed</u>  
 British Machine Vision Conference (BMVC), 2017.  
-[arXiv](https://arxiv.org/abs/1704.06410)
+[arXiv](https://arxiv.org/abs/1704.06410) 
+
+<b>Automatic Extraction of Moving Objects from UAV-borne Monocular Images using Multi-view Geometric Constraints</b>  
+<b>Motoki Kimura</b>, Ryosuke Shibasaki, Xiaowei Shao, Masahiko Nagai  
+International Micro Air Vehicles Conference (IMAV), 2014.  
+[PDF](http://www.imavs.org/papers/2014/paper14.pdf)  
+
+## Competition Solutions
