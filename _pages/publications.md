@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Comference Papers
+## Conference Papers
 
 <b>Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion</b>  
 Nevrez Imamoglu*, <b>Motoki Kimura</b>*, Hiroki Miyamoto, Aito Fujita, Ryosuke Nakamura <b><u>(\*)equally contributed</u></b>  
