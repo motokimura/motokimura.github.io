@@ -16,9 +16,9 @@ See [competition offitial page](https://spacenet.ai/earthvision2020/),
 [video](https://youtu.be/3t6RN03oR5E),
 and [GitHub repository](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions/tree/master/4-motokimura) for details.
 
-<img src="/images/portfolio_spacenet6_01.png" width="700">
+<img src="/images/portfolio_spacenet6_01.png" width="800">
 
-<img src="/images/portfolio_spacenet6_02.png" width="700">
+<img src="/images/portfolio_spacenet6_02.png" width="800">
 
 ## Monocular 3D Human Recognition
 
