@@ -4,9 +4,17 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## Monocular 3D Human Recognition
+
+Implemented ["A simple yet effective baseline for 3d human pose estimation" [Martinez+, ICCV'17]](https://arxiv.org/abs/1705.03098) in PyTorch and reproduced the performance of the original Tensorflow implementation. See [GitHub repository](https://github.com/motokimura/3d-pose-baseline-pytorch).
+
+By integrating this with a monocular object-specific distance estimation method, I've constructed a **monocular** 3D human recoginition system.
+
+<img src="/images/portfolio_3d_human_recognition_01.png" width="600">
+
 ## Gaussian YOLOv3 in PyTorch
 
-Implemented [Gaussian YOLOv3](https://arxiv.org/abs/1904.04620) (an uncertainty-aware and realtime object detector presented at ICCV2019) in PyTorch and reproduced the performance of the original Darknet implementation.
+Implemented ["Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving" [Choi+, ICCV'19]](https://arxiv.org/abs/1904.04620) in PyTorch and reproduced the performance of the original Darknet implementation.
 
 See [GitHub repository](https://github.com/motokimura/PyTorch_Gaussian_YOLOv3) for details.
 
