@@ -4,15 +4,21 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## Solution for SpaceNet-7 Challenge
+
+Further details coming soon.
+
+<img src="/images/portfolio_spacenet7_02.gif" width="750">
+
 ## 4th Place Solution for SpaceNet-6 Challenge
 
-Won the 4th place (**top 1%** amoung 400+ teams) at SpaceNet-6 competition which was held as a part of CVPR'20 EarthVision workshop.
+Won the 4th place (**top 1%** amoung 400+ teams) in [SpaceNet-6 competition]((https://spacenet.ai/earthvision2020/))
+which was held as a part of CVPR'20 EarthVision workshop.
 
 In SpaceNet-6 competition, participants were asked to extract building footprints from SAR (Synthetic Aperature Radar) remote sensing imageries.
 I developed an effective pipeline combining deep learning based instance segmentation and post-filtering using LGBM (Light Gradient Boosting Machine).
 
-See [competition offitial page](https://spacenet.ai/earthvision2020/),
-[slides](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet6-challenge),
+See [slides](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet6-challenge),
 [video](https://youtu.be/3t6RN03oR5E),
 and [GitHub repository](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions/tree/master/4-motokimura) for details.
 
@@ -37,7 +43,7 @@ See [GitHub repository](https://github.com/motokimura/PyTorch_Gaussian_YOLOv3) f
 <img src="/images/portfolio_gaussian_yolov3_01.png" width="700">
 
 
-## Car Counting in Aerail Images
+## Car Counting in Aerial Images
 
 Developed a convolutional neural network to count cars in aerial images.
 
