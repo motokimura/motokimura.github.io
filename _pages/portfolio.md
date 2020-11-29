@@ -16,9 +16,9 @@ See [competition offitial page](https://spacenet.ai/earthvision2020/),
 [video](https://youtu.be/3t6RN03oR5E),
 and [GitHub repository](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions/tree/master/4-motokimura) for details.
 
-<img src="/images/portfolio_spacenet6_01.png" width="800">
+<img src="/images/portfolio_spacenet6_01.png" width="750">
 
-<img src="/images/portfolio_spacenet6_02.png" width="800">
+<img src="/images/portfolio_spacenet6_02.png" width="750">
 
 ## Monocular 3D Human Recognition
 
@@ -26,7 +26,7 @@ Implemented ["A simple yet effective baseline for 3d human pose estimation" [Mar
 
 By integrating this with a monocular object-specific distance estimation method, I've constructed a **monocular** 3D human recoginition system.
 
-<img src="/images/portfolio_3d_human_recognition_01.gif" width="600">
+<img src="/images/portfolio_3d_human_recognition_01.gif" width="700">
 
 ## Gaussian YOLOv3 in PyTorch
 
