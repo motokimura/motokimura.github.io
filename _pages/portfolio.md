@@ -6,7 +6,7 @@ author_profile: true
 
 ## 4th Place Solution for SpaceNet-6 Challenge
 
-Won the 4th place (**top 1%** amoung 400+ teams) at SpaceNet-6 competition held along with CVPR'20 EarthVision workshop.
+Won the 4th place (**top 1%** amoung 400+ teams) at SpaceNet-6 competition held as a aprt of CVPR'20 EarthVision workshop.
 
 In SpaceNet-6 competition, participants were asked to extract building footprints from SAR (Synthetic Aperature Radar) remote sensing imageries.
 I developed an effective pipeline combining deep learning based instance segmentation and LGBM (Light Gradient Boosting Machine) post-processing.
@@ -26,7 +26,7 @@ Implemented ["A simple yet effective baseline for 3d human pose estimation" [Mar
 
 By integrating this with a monocular object-specific distance estimation method, I've constructed a **monocular** 3D human recoginition system.
 
-<img src="/images/portfolio_3d_human_recognition_01.gif" width="700">
+<img src="/images/portfolio_3d_human_recognition_01.gif" width="600">
 
 ## Gaussian YOLOv3 in PyTorch
 
