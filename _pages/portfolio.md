@@ -6,7 +6,7 @@ author_profile: true
 
 ## 4th Place Solution for SpaceNet-6 Challenge
 
-Won the 4th place (**top 1%** amoung 400+ teams) at SpaceNet-6 competition held as a aprt of CVPR'20 EarthVision workshop.
+Won the 4th place (**top 1%** amoung 400+ teams) at SpaceNet-6 competition held as a part of CVPR'20 EarthVision workshop.
 
 In SpaceNet-6 competition, participants were asked to extract building footprints from SAR (Synthetic Aperature Radar) remote sensing imageries.
 I developed an effective pipeline combining deep learning based instance segmentation and LGBM (Light Gradient Boosting Machine) post-processing.
