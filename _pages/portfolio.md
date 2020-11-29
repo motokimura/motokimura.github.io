@@ -12,7 +12,7 @@ In SpaceNet-6 competition, participants were asked to extract building footprint
 I developed an effective pipeline combining deep learning based instance segmentation and LGBM (Light Gradient Boosting Machine) post-processing.
 
 See [competition offitial page](https://spacenet.ai/earthvision2020/),
-[slides](https://speakerdeck.com/motokimura),
+[slides](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet6-challenge),
 [video](https://youtu.be/3t6RN03oR5E),
 and [GitHub repository](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions/tree/master/4-motokimura) for details.
 
