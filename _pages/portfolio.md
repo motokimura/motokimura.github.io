@@ -26,7 +26,7 @@ Implemented ["A simple yet effective baseline for 3d human pose estimation" [Mar
 
 By integrating this with a monocular object-specific distance estimation method, I've constructed a **monocular** 3D human recoginition system.
 
-<img src="/images/portfolio_3d_human_recognition_01.gif" width="600">
+<img src="/images/portfolio_3d_human_recognition_01.gif" width="650">
 
 ## Gaussian YOLOv3 in PyTorch
 
