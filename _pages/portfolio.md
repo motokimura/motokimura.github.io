@@ -18,7 +18,8 @@ which was held as a part of CVPR'20 EarthVision workshop.
 In SpaceNet-6 competition, participants were asked to extract building footprints from SAR (Synthetic Aperature Radar) remote sensing imageries.
 I developed an effective pipeline combining deep learning based instance segmentation and post-filtering using LGBM (Light Gradient Boosting Machine).
 
-See [slides](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet6-challenge),
+See [winners announcement](https://medium.com/the-downlinq/spacenet-6-announcing-the-winners-df817712b515),
+[slides](https://speakerdeck.com/motokimura/4th-place-solution-for-spacenet6-challenge),
 [video](https://youtu.be/3t6RN03oR5E),
 and [GitHub repository](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions/tree/master/4-motokimura) for details.
 
