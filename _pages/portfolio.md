@@ -8,12 +8,14 @@ author_profile: true
 
 Won the 4th place (**top 1.3 %** amoung 300+ teams) in
 [SpaceNet-7](https://spacenet.ai/sn7-challenge/)
-which was featured as a competition at NeurIPS'20 conference.
+which will be featured as a competition at NeurIPS'20 conference.
 In SpaceNet-7 competition, participants were asked to identify and track buildings
 in satellite imagery time series collected over rapidly urbanizing areas.
 
 I have developed a pipeline that combined deep learning-based instance segmentation and
 a simple yet effective rule-based multi-object tracking method.
+
+See [winners announcement](https://medium.com/the-downlinq/the-spacenet-7-multi-temporal-urban-development-challenge-announcing-the-winners-847a9a53004c) for details.
 
 Further details comming soon.
 
