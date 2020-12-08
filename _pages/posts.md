@@ -1,6 +1,6 @@
 ---
 title: "Medium Blog Posts"
-permalink: /medium/
+permalink: /posts/
 author_profile: true
 ---
 
