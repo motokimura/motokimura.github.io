@@ -1,5 +1,5 @@
 ---
-title: "Medium Blog Posts"
+title: "Blog Posts"
 permalink: /posts/
 author_profile: true
 ---
