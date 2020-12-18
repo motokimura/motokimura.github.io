@@ -8,7 +8,7 @@ author_profile: true
 
 Won the 4th place (**top 1.3 %** amoung 300+ teams) in
 [SpaceNet-7](https://spacenet.ai/sn7-challenge/)
-which will be featured as a competition at NeurIPS'20 conference.
+which was featured as a competition at NeurIPS'20 conference.
 In SpaceNet-7 competition, participants were asked to identify and track buildings
 in satellite imagery time series collected over rapidly urbanizing areas.
 
